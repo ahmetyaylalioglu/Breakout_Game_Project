@@ -77,7 +77,7 @@ This is the repo for the Capstone project in the [Udacity C++ Nanodegree Program
    * `cd ..`
    * `cd Breakout_game_cpp`
    * `mkdir build`
-   * `cp -R Assets/ build/`   (Move Assets folder into build directory for level file)
+   * `cp -R Assets/ build/`   (Copy Assets folder into build directory for level file)
    * `cd build`
    * `cmake ..`
    * `make`
